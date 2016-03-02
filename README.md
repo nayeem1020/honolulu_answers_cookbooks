@@ -1,7 +1,7 @@
 honolulu_answers_cookbooks
 ==========================
 
-This repo contains cookbooks for deploying the Honolulu Answers application. It's intended to be used as part of an OpsWorks stack spun up using the templates and scripts in the [Honolulu Answers](https://github.com/cdsimplified/honolulu_answers) demo application. It should work in any Chef environment, but it's never been tested so try at your own risk.
+This repo contains cookbooks for deploying the Honolulu Answers application. It's intended to be used as part of an OpsWorks stack spun up using the templates and scripts in the [Honolulu Answers](https://github.com/nayeem1020/honolulu_answers) demo application. It should work in any Chef environment, but it's never been tested so try at your own risk.
 
 questions?
 ====
